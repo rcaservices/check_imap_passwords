@@ -1,4 +1,2 @@
 server,username,port,security,label
-imap.gmail.com,richard@rcaservices.net,993,ssl,Richard Gmail Relay
-mail.rcahosting.com,richard@rcahosting.com,993,ssl,RCAHosting mailbox
-outlook.office365.com,richard@aspireconsultingpartners.com,993,ssl,Work O365
+rcahosting.com,richard,993,ssl,RCAHosting mailbox
