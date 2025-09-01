@@ -1,0 +1,12 @@
+# Example accounts file for check_imap_passwords.py
+# Columns: server,username,port,security,label
+# - server   : IMAP server hostname (e.g., imap.gmail.com)
+# - username : Your email address for login
+# - port     : IMAP port (993 for SSL, 143 otherwise)
+# - security : ssl | starttls | plain
+# - label    : Friendly name for display (optional)
+
+server,username,port,security,label
+imap.gmail.com,user@example.com,993,ssl,Personal Gmail
+mail.examplehosting.com,me@mydomain.com,993,ssl,My Domain Mailbox
+outlook.office365.com,user@company.com,993,ssl,Work O365
